@@ -1,0 +1,7 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="OpenShift" type="openshift">
+      <configuration domain="yfit1" email="krasnoslobodsk@mail.ru" password="xgg2c46g" />
+    </remote-server>
+  </component>
+</application>
